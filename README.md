@@ -66,7 +66,7 @@ The arguments to run “train.py” are as follows:
 Example:
 
 ```bash
-python train.py --rna_path ./datasets/10X_PBMC/10x-Multiome-Pbmc10k-RNA.h5ad  --atac_path ./datasets/10X_PBMC/10x-Multiome-Pbmc10k-ATAC.h5ad'  --train_epochs 500  --lr 1e-3  --seed 0  --result_dir ./results/10X_PBMC
+python train.py --rna_path ./datasets/10X_PBMC/10x-Multiome-Pbmc10k-RNA.h5ad  --atac_path ./datasets/10X_PBMC/10x-Multiome-Pbmc10k-ATAC.h5ad  --train_epochs 500  --lr 1e-3  --seed 0  --result_dir ./results/10X_PBMC
 ```
 
 # Contact
